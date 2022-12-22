@@ -22,7 +22,7 @@ Navigate to your GitHub repository in the browser and then select the Settings t
 ## Usage
 [Project.io](https://omousa98.github.io/Work-Day-Scheduler/)
 
-![screenshot1](./Assets/Final-product.jpg)
+![Final Product](https://github.com/omousa98/Work-Day-Scheduler/blob/main/Assets/Final%20product.jpg?raw=true)
 
 
 ## License
